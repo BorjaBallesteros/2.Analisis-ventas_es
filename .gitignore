@@ -1,0 +1,8 @@
+# Entorno virtual
+env/
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales de Python
+*.pyc
